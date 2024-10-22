@@ -90,6 +90,19 @@ body {
     text-transform: uppercase;
 }
 
+h3 {
+
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+    line-height: 2;
+}
+
+h2 {
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+    line-height: 2;
+} 
+
 p {
     text-align: center;
     text-shadow: 2px 2px 5px black;
@@ -137,8 +150,8 @@ a img {
 
 .one h3 {
     display: block;
-    margin: 0 auto 10px;
-    font-size: 14px;
+    margin: 20px auto 10px;
+    font-size: 20px;
     line-height: 1.9;
     text-shadow: 3px 2px 1px black;
     text-align: center;
@@ -160,18 +173,6 @@ details > summary {
     text-align: center;
     text-shadow: 2px 2px 5px black;
     font-weight: 700;
-    line-height: 2;
-}
-
-h3 {
-    text-align: center;
-    text-shadow: 2px 2px 5px black;
-    line-height: 2;
-}
-
-h2 {
-    text-align: center;
-    text-shadow: 2px 2px 5px black;
     line-height: 2;
 }
 
