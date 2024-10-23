@@ -186,6 +186,7 @@ details > summary {
 .video {
     width: 300px; 
     margin: 0 10px; 
+    position: relative;
 }
 
 blockquote > em {
