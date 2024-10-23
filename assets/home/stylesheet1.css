@@ -179,14 +179,14 @@ details > summary {
 .video-container {
     text-align: center; 
     width: 100%; 
-    position: absolute;
+    overflow: hidden;
     
     
 }
 .video {
     width: 300px; 
     margin: 0 10px; 
-    position: relative;
+    overflow: hidden;
 }
 
 blockquote > em {
